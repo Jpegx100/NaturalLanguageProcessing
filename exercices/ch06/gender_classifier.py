@@ -1,3 +1,10 @@
+"""
+
+This program is a gender classifier that use the files 'femi.txt' and
+'masc.txt' to load the brazilian names dataset. The classification
+proccess is made using NLTK classification tools.
+
+"""
 import random
 import nltk
 
