@@ -8,7 +8,6 @@ from generate_classifier import get_features
 if __name__ == '__main__':
 
     if len(sys.argv) > 1:
-
         classifier = pickle.load(open('classifier.pkl', 'rb'))
 
         arq = open(sys.argv[1], 'r')
