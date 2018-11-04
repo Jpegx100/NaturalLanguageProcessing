@@ -1,0 +1,637 @@
+Bom dia,1,400
+A mocinha ja entrou em contato com vcs pra saber como a gente faz pra cadastrar os produtos que não tem nota fiscal?,2,400
+Drogaria são João de castelo,4,400
+Estamos concluindo o cadastro de produtos,4,400
+E gostaria de saber como se faz com os produtos que não tem nota fiscal ?,2,400
+Bom dia,1,402
+Ta bom,4,402
+Posso repassar o vivo,4,402
+Porém é no msm aparelho,4,402
+Pode,4,402
+981896518,4,402
+Agora eu gostaria de saber como a gente faz pra cadastrar os produtos que não tem nota fiscal,2,404
+Sim,4,404
+Ok!,4,404
+Ta bom Aguardo,4,404
+No caso a gente pesquisa o ncm na internet?,2,404
+E o cfop encontra na Internet tbm?,2,404
+Com quem estou falando msm? Kkk,2,404
+Ah ta certo ? Obrigada! !,4,404
+Justamente So não faço é lembrar mais como faz kkkk,2,404
+Mas lembro qur não é difícil msm não,4,404
+Boa tarde,1,406
+Como fracionar os medicamentos?,2,406
+Mas no caso eles ja estão todos cadastrados,4,406
+Ai como a gente faz?,2,406
+Vou ja tentar aki,4,406
+Mas na formação de preço como faço?,2,406
+Coloquei aki o da fração,4,406
+Me ensine ai a abrir o caixa,2,406
+Deu errado kkk,3,406
+não está abrindo nem com valor inicial e nem sem nada....,3,406
+Calmw ai,4,406
+Parece que vai dar certo,4,406
+Que horas encerra seu expediente?,2,406
+Ta bom,4,406
+essa parte acho que entendi ,4,406
+vou lhe mandar a foto,4,406
+Bom dia,1,408
+MAYLLANA?,2,408
+Entendo ,4,408
+Os éticos a gente vende a preço do preço do guia,4,408
+Então não devemos modificar nada,4,408
+No caso as alterações não causam nenhum problema né?,2,408
+Na nota tem Geralmente os éticos é 18%,4,408
+Ta bom,4,408
+Bom dia,1,410
+Preciso falar urgente c Erisson,3,410
+Quero saber da alteracao do meu sostema,2,410
+Q ficou p ser feita c maxima urgencia,4,410
+Mas ai no caso vou ter qye colocar o valor de todos na venda ne,2,412
+Bom dia,1,414
+Maylana.?,2,414
+Quem é Então?,2,414
+Ah que bom,4,414
+Bom dia,1,416
+Quem é?,1,416
+Fui la e coloquei o estoque atua Mas não mudou não,3,416
+Mas agora mudou msm,4,416
+Tenho outra Dúvida,2,416
+Msm eu tendo colocado ja o código do pacotinho.?,2,416
+Ta bom,4,416
+Obrigada,4,416
+Bom dia,1,418
+Maylana?,2,418
+Gostaria que me ensinasse a fazer uma nota fiscal eletrônica,2,418
+Vc ja ensinou pra mocinha Mas foi a fazer uma direta,4,418
+E ela não sabe mais e nem eu entendi,4,418
+Ai no caso aki o qie eu entendi é que não vai ser direta pq os produtos ja estão no estoque,2,418
+Ja passei a venda Falta so confirmar E não sei como faço,2,418
+Ok,4,418
+Pois vamos deixar pra amanhã de manhã Então,4,418
+Quando eu chegar entro em contato,4,418
+Bom dia,1,420
+Lyslaine quando possível ligue pra nós,3,420
+Pode ligar,2,420
+Tem sim,4,420
+Boa tarde,1,420
+P gente v a questão da sangriab,3,420
+Ok,4,420
+Vamos,4,420
+Qualquer coisa entro em contato novamentev,4,420
+Bom dia. Pessoal estou com problemas novamente em um dos caixas. Estou usando apenas a pré-venda.,3,421
+Pois o de passar vendas não está dando certo.,3,421
+Voces podem acessar nosso sistema agora ?.,2,421
+Boa tarde,1,421
+Mais um problema em um dos caixas.,3,421
+Vocês podem acessar nosso sistema agora ?.,2,421
+Boa noite . já enviamos este computador para assistência.,4,421
+Qualquer contra tempo entro em contato.,4,421
+De já obrigada.,4,421
+Bom dia,1,424
+Lyslaine?,2,424
+Cheguei agora e ainda continua,3,424
+Como faz p sair dessa q ta na frente ?,2,424
+A simm entendi ... pessei q vc tivesse falando e q tinha q selecionar se era a vista ou a prazo kkk,4,424
+Boa tarde,1,426
+Nao abre mesmo colocando a senha,3,426
+Sera q foi por causa dessa atualização do java ????,2,426
+Ok,4,426
+Se vc restaurar  o sistema?,2,426
+Pq foi instalado um programa2,2,426
+Vej ai na area de trabalho,4,426
+Eageat,4,426
+Ai foi atualizado bo java,4,426
+É,4,426
+Pois entao vamos aguardar,4,426
+E agora?,2,426
+Vc quer a senha novamentev?,2,426
+Ta baixando aqui,4,426
+Ta bom,4,426
+ Vou anotar aqui os dados total aqui do cx p com fé em Deus fechar o cx amanhã,4,426
+Bom dia,1,428
+Ja  ja,4,428
+Lislayne ja estou aqui com o rapaz . A pasta importante mesmo é só essa q vc me enviou mesmo  né. Ele ja vai começar a formatar,4,428
+Ta bom,4,428
+Vc sabe como e q ta salvo aqui pois ele nao esta encontrndo,3,428
+Vc pode ligar p mim,1,428
+Deixei lá lá na na lan house dele ele falou que 3 horas era para mim entrar em contato com ele,4,428
+Aí eu estou aguardando aqui,4,428
+Tá,4,428
+já  está  pronto,4,428
+A iris ta pedindo p vc ligar p ela pois não ta conseguindo falar com vc,3,428
+Bom dia,1,430
+Lislay?,2,430
+Ja estamos com a maquina aqui dizendo ele q formatou kkkk,4,430
+Vou te passar aqui o acesso,4,430
+Pronto,4,430
+Desliguei,4,430
+E liguei kkkk,4,430
+So lembra p vc colocar o atalho na area de trabalho p dar entrada por Xml,4,430
+Pois ta bom,4,430
+Ta sim ate agora deu mais problemas não,4,430
+Mulher deu certo,4,430
+Parece,4,430
+não tava no lugar corrwto e nem percebi okkk,4,430
+Boa noite,1,430
+Bom dia,1,434
+Valei me ....,4,434
+Sempre q aparecer eu salvo é,2,434
+Mais posso salvar ?,2,434
+Ta bom,4,434
+não hj foi a primeira vez .inclusive nao imprimiu o papel da abertura de cx,3,434
+Ta saido a fiscal mesmo,3,434
+Só q sai em contigencia,3,434
+Mais ta normal como todo dia mesmo .ultimamente sempre está em contingencia,3,434
+É vc ja tinha me falado mesmo . Entao axho q ta tudo ok por enqnto kkkk,4,434
+Pois me mostra aqui só mais uma vez p eu fazer hj pq ainda não fiz,4,434
+Ou te passar acesso,4,434
+Pronto,4,434
+É só assim ?,2,434
+Ta bom entao hj vou fazer isso,4,434
+Obg,4,434
+Boa tardey tem como o rapaz usar o notebook porque ele tem que puxar umas notas pendentes da Sefaz para dar entrada só que ele precisa usar certificado digital ele tentou usar outra máquina mas não deu certo por conta do certificado só que eu fiquei com medo de dar problema novamente por isso estou lhe perguntando se pode ou não,2,436
+Pois ta bom entao ... vou fechar .É Mais mesmo assim vou fazer o bekaup,4,436
+Tomara q não der nenhum problema,4,436
+Eu ja fiz aqui os procedimentos e ja passei o acesso aqui p ele .ele falou q não ia mexer em nada nao só pegou  aqui uns dados do certificado,4,436
+E ja ia tentar fazer mesmo no computador dele,4,436
+"Lislayne eu queria só saber se tem a opção de não imprimir a notinha .pq tem muitos clientes q não quer, se tivesse seria bom pq pouparia o papel",2,440
+"Tá bom, no momento era só isso mesmo .obg.",4,440
+Bom dia,1,442
+Falo com quem ?,2,442
+Isso,4,442
+Tá bom vou faze aqui,4,442
+Boa tarde ,1,442
+"Pronto terminei de incluir os produtos,agora eu salvo ou associo os produtos ao existente?",2,442
+Só salva mesmo ? ,2,442
+Pronto ... será q deu certo?,2,442
+Ok obg até mais,4,442
+Bom dia,1,446
+Lislayne???,2,446
+É q eu fui dar baiza na conta de uma cliente e na hora q foi imprimir o comprovante aparece uma mensagem dizendo q o pdv não está respondendo ....,3,446
+Então não sei como fazer vc pode me ajudar ?,2,446
+Ta Tá bom vou v aqui é q fiquei com medo de fechar pq la dizia q poderia perder alguns dados,4,446
+Tá carregando aqui ainda,4,446
+Ta sim,4,446
+Ok vou tentar aqui,4,446
+Sob um instante,4,446
+Kkk a internet aqui é muito ruim,4,446
+Deu certo,4,446
+não só umas p vender mesmo vou ja fazer isso,4,446
+Aproveitando quero lhe perguntar se ja foi atualizado o sistema p imprimir notinha só se quiser ou não?,2,446
+Bom dia,1,448
+Sim,4,448
+Posso ir acompanhando aki,4,448
+Não estou abrindo o plus em nenhum pc,4,1
+Vendas do dia,4,1
+Tá certo,4,1
+Estou reiniciado e mando já,4,1
+Abre o cx 8,4,1
+Esse é o que vejo se foi pra receita?,4,1
+Boa tarde,1,1
+Não tô conseguindo abrir o caixa nos outros computadores,3,1
+Esta usuário esta aberto em outro caixa,4,1
+No da impressora abre normal,4,1
+Mas nos outros computadores não abre,3,1
+Nenhum,4,1
+Nenhuma,4,1
+Nessa que esta mexendo,4,1
+Nessa maquina não abre nenhum caixa,3,1
+La tá tufo fechado,4,1
+Fechei pra ver se  era isso,4,1
+Tá bom,4,1
+Pronto,4,1
+Obrigado,4,1
+Já disse aqui pra ela,4,1
+Maylana falo já com vc...Eduardo que é agoniado...deixa ele sair do escritorio,4,1
+Bom dia,1,3
+Com quem falo?.,2,3
+Oi,1,3
+No momento não estou na empresa,4,3
+Estou no centro,4,3
+Pode deixar.,4,3
+Já estou no comércio.,4,3
+O que faço ?.,2,3
+Mas essa impressora só é usada aqui,4,3
+É problema no cabo?.,2,3
+Ou então a questão da agilização que ficou incompatível,4,3
+Posso acessar ao computador,2,3
+Obrigada,4,3
+Boa tarde,1,3
+Certo. Vou só lançar mais umas notas e aviso a você,4,3
+Pode ser?.,2,3
+Sim,4,4
+Tv de todos?,2,4
+Boa tarde,1,4
+Oi,1,4
+Ainda vai atualizar lá?,2,4
+Só um minuto,4,4
+Obrigado,4,4
+Bom dia!,1,5
+Estou precisando de uma nfe,3,5
+É urgente,4,5
+Estou esperando mas o cliente tem pressa,4,5
+Eita chamado demorado 🤔,4,5
+Da impressora?,2,5
+Pode ser só uma copia também,4,5
+Mas se der para tirar pela impressora fiscal,  com demais,4,5
+Então posso fazer outra? Tenho ela discriminada em um bloco,4,5
+Mas foi lion?,2,5
+Tudo bem,1,5
+Foi ele que só veio hoje,4,5
+Posso fazer outra então,4,5
+Que eu lembre agora nao🙈,4,5
+Veja só com o Gabriel o que pedi,4,5
+Obrigado,4,5
+oa tarde,1,201
+Sim so uns instat,4,201
+Maylane posso usar o computador,2,201
+ok,4,201
+Ver Tbm o sistema do sngpc,4,201
+Agente não conseguido acessar o arquivo pra fazer a transmissão,3,201
+Sim,4,201
+Vc falar so cupom fiscal,4,201
+Qualquer dúvida me avise,4,201
+O comprovante de farmácia popular,4,201
+Saiu diferente o comprovante,2,201
+Qro saber se. Agora é assim msm,2,201
+Bom dia,1,202
+O sistema de farmácia popular está fora do ar?,2,202
+Sabe me informar?,2,202
+Aqui não tá funcionando,3,202
+Fibra,4,202
+Agente tem da oi Tbm,4,202
+Nova WiFi,4,202
+servidor,4,202
+nas oq pode ser.,2,202
+Esse bloqueio,4,202
+Tenho,4,202
+O Vinicius falou que pra coloca essa maquina Tbm com cupom fiscal.,4,202
+Pq as vzs um computador não dar atender,3,202
+O pessoal farmácia popular,4,202
+E demais,4,202
+Pra colocar igual o outro computador,4,202
+Ver aí se a Internet é da oi,2,202
+Realmente,4,202
+Perai,4,202
+mas pq tiraro,2,202
+Se já tinha,2,202
+Pq táva funcionando,4,202
+Com o nfce,4,202
+Mas era nfce fiscal,4,202
+Aí alguém mexeu e tirou,3,202
+E ficou so no servidor,3,202
+Mas era nos dois,4,202
+Ata,4,202
+Desculpa,4,202
+Seguinte falei com o Vinicius ele falou que pagou pra usar as duas maquinas comncfe,4,202
+Já tentei fala com ele,4,202
+Mas não tô conseguindo,3,202
+Pós veja se consegue colocar o nfce fiscal logo,4,202
+Vou trocar aqui o roteador pro MSm do servidor,4,202
+Troquei o cabo,4,202
+tá no mesmo roteador,4,202
+já funcionando nfce?,2,202
+Travado pra mim aqui,3,202
+Ainda tá do msm jeito ainda,4,202
+Pra impressão fiscal,4,202
+No servidor deu certo,3,202
+Ele vão fica como outro,4,202
+Alternativo e fiscal,4,202
+pode. Fica com a opcao nota fiscal,4,202
+Parece tá,4,202
+Obrigado,4,202
+Bom dia,1,202
+Bom dia,1,203
+o sistema da farmácia popular tá fora do ar,3,203
+REINALDO MANDA AI A LISTA,4,203
+MAS ELA NAO FALA,4,203
+OS MEDICAMENTOS QUE SAIRAM DO PROGRAMA,4,203
+TA BOM,4,203
+Chamada de voz perdida,4,203
+Quero que você configure o meu sistema,4,203
+agente teve que trocar o roteador aí devido isso o id alterou,3,203
+A Internet tá muito fraca,4,203
+Tenta de novo,4,203
+Vc pode me ajudar em uma venda no portal da drogaria (treinamento),2,203
+Mas uma vez,2,203
+Agente ver amanhã,4,203
+Isso,4,203
+o sistema da farmácia popular tá fora do ar,3,204
+Tá bom,3,204
+Bom dia,1,205
+Ei,1,206
+Vc pode me. A tende,2,206
+A respeito de XML q o Vinicius,4,206
+Falou com Reinaldo,4,206
+Mas pq não entraram em contato antes,2,206
+Pra fazer isso logo,2,206
+Tendo,4,206
+blz,4,206
+11:30,4,206
+pode ser?,2,206
+blz,4,206
+Ok bom dia,1,207
+Maylana tem alguma máquina pronta já,2,207
+ok,4,207
+Bom dia,1,209
+Favor com respeito as alteracoes de preco do Farmacia popular,4,209
+Vc tem com com atualizar ou somos nos,2,209
+Estou em Sao Paulo,4,209
+Tudo bem. Obrigado,4,209
+Apareceu esta msg,4,209
+Id 925895287,4,210
+senha 7713,4,210
+Bom dia,1,211
+Vinicius solicitou um reparo,4,211
+No sistema,4,211
+Pediu pra passar o team,4,211
+Boa tarde,1,212
+Quero ajudar pra fazer uma venda no portal da drogaria,4,212
+Só que tinha ser agora,4,212
+Tô com o cliente esperando,4,212
+Oi,4,212
+Quando finalizar a venda sair 2 cupons pequenos,4,212
+Algum pro cliente,2,212
+Bom dia,1,213
+José drogaria mais saúde,4,213
+Tô um erro aqui no sistema,3,213
+Já abrir no terminal,4,213
+Deu o MSm erro,3,213
+Abri em outro computador,4,213
+Parece,4,213
+Quero que você configure,4,214
+Meu sistema,4,214
+A Internet tá muito fraca,4,214
+Tenta de novo,4,214
+Vinicius solicitou um reparo,4,215
+No sistema,4,215
+Pediu pra passar o team,4,215
+Boa tarde,1,215
+Quero ajudar pra fazer uma venda no portal da drogaria,4,216
+Por favor,4,216
+Só que tinha ser agora,4,216
+Tô com o cliente esperando,4,216
+Quando finalizar a venda sair 2 cupons pequenos.,4,216
+Algum pro cliente,4,216
+Bom dia,1,217
+José drogaria mais saúde,4,217
+Tô um erro aqui no sistema,4,217
+Já abrir no terminal,4,217
+Deu o MSm erro,3,217
+Abri em outro computador,4,217
+Parece,4,217
+Bom dia,1,218
+Tô com um problema no sistema,3,218
+sistema não finalizou a venda,3,218
+Mensagem de erro,3,218
+E não tá emitindo nota fiscal,3,218
+Tõ com problemas aqui no sistema,4,218
+Não finalizar,3,218
+ele não passou no terminal só no servidor,3,218
+Não obrigado,4,218
+Opa bom dia.,1,219
+Amanhã eu quito esse débito meu amigo.,4,219
+Muito obrigado.,4,219
+não fiz o depósito,4,220
+vou fazer já ja,4,220
+mande o valor,4,220
+muita chuva e sem sistema,3,220
+na sexta-feira,4,220
+Boa tarde,1,221
+No meu sistema sumiu todo meu estoque,3,221
+Todo o estoque está zerado,3,221
+Esses aí é que eu fui colocando pq tudo que dei entrada e foi digitado não está,3,221
+E esses aí é da mercadoria que chegou a 2 dias atrás,4,221
+Ontem quando fui fazer venda pela manhã,4,221
+ok,4,221
+Estou com problemas no caixa principal. Não está totalizando o cupom,1,222
+Estou com problemas no caixa principal. Não está totalizando o cupom,3,222
+Aguarde um pouco. Só finalizar uma venda na pré-venda.,4,222
+Já lhe passo,4,222
+Deu certo,4,222
+Acho que pela metade,4,222
+Sim,4,222
+pronto,4,222
+Obrigado,4,222
+bom dia,1,223
+acho que termos que alterar os preços,4,223
+pq não está dando certo as vendas,3,223
+acho que termos que alterar,4,223
+pois é mais eu não fazer,4,223
+qual valores,2,223
+vc pode me ligar pra fazer,4,223
+pode me ligar pra fazer,4,223
+pra segunda-feira,4,224
+pq hoje nãovotem como,3,224
+bote pra amanhã,4,225
+bom dia,1,226
+enviou,4,226
+vou ja imprimir,4,226
+bom dia,1,227
+mande o valor,4,227
+que vou fazer o depósito,4,227
+mais tarde lhe mando o comprovante,4,227
+ok,4,228
+estou um problema quando depois das oito me ligue,3,229
+tá aí pagamento,4,229
+é tá dando pendências,3,229
+pra amanhã,4,230
+blz,4,231
+mande no email,4,232
+Bom dia,1,233
+Estou aguardando um chamado,4,234
+Emitir nota,3,235
+Preciso saber se pra emitir a nota fiscal de uma pessoa que não tem cadastro preciso cadastrar como se fosse cliente?,2,235
+Era essa a dúvida,4,235
+Já resolvi,4,235
+Estão todos aqui separados em sistema,4,236
+tenho todos digitalizadas,4,236
+então está com problemas,3,236
+Não imprimiu,3,236
+Não deu certo,3,236
+Não travou mais qualquer coisa eu ligo,4,236
+bom dia,1,237
+mande o valor,4,237
+Vou fazer o depósito,4,237
+Não fiz o depósito ontem mas vou fazer agora,3,238
+Pode ser esse valor me mande aí que vou faezr agora,4,238
+Já lhe mando os comprovante,4,238
+mande alguem me lihgar,4,238
+estou viajando chego amanhã quando eu chegar aviso pra vc me mandar o valor praeu depositar,4,240
+mande o valor voju fazer o deposito,4,241
+mais tarde lhe mando o comprovante,4,241
+eu tive que viajar não deu amanha faco o deposito,4,242
+Boa tarde,1,243
+ainda não pq aqui só tem banco do Brasil nos Correios,4,243
+faça o seguinte mande o boleto pra amanhã,4,243
+pode ser pq,4,243
+ainda não cheguei ta bom,4,243
+preciso transferir emissor de NF de um computador para outro.,3,244
+boleto mande,4,245
+mande o valor pra mim fazer a transferência,4,246
+depois me ligue estou com problema no sistema,3,246
+na de imprimi o cupom não tá dando certo,3,246
+é ta sem estoque farmácia popular,3,246
+celular posso ligar,4,246
+Bom dia ,1,247
+amanhã ok,4,247
+não estou na quando eu chegar eu vejo,4,248
+Não deu pq faltou energia vou fazer o deposito,4,249
+não deu ontem mas vou fazer hoje pode ser o mesmo valor,4,250
+Depositar,4,250
+bom dia ,1,251
+Não estou conseguindo imprimir um cupom fiscal,3,251
+era um problema no sistema da drogaria,4,251
+não sei como olhar a transação não,3,251
+Boa tarde,1,252
+Estou precisando de um atendimento,4,252
+Não consigo finalizar uma venda no portal Drogaria,3,252
+Não está importando o desconto,3,252
+Estou aguardando,4,252
+Boa tarde,1,253
+Boa noite!!!,1,254
+Estamos com problemas em um dos computadores,4,254
+O programa não está abrindo,3,254
+Já voltou ao normal,4,254
+Bom dia!!! Oi mailana...,1,255
+nao estou nesse momento na fabrica e estou tmtando acessar meu not book a distancia e nao esta acessando...,3,255
+Nao sei o q houve,4,255
+Mas meu tran vier nao abre,3,255
+E minha onternet esta boa,3,255
+Vc pode me ajudar,2,255
+Ja procurei atualizar e nada,3,255
+Sucesso,4,256
+Boa tarde,1,258
+foi aberto algum chamado para a drogaria alto parnaíba,2,258
+Vocês estão mexendo no caixa,2,258
+Não estamos conseguindo receber as contas,3,258
+O problema já foi solucionado,4,258
+Estou pagando hoje,4,259
+Bom dia,1,260
+Não estou conseguindo finalizar uma venda do portal Drogaria,3,260
+Aparece a mensagem que houve um erro,4,260
+Erro na aplicação do sistema,3,260
+A sefaz rejeita as notas com cfop errado,4,260
+Bom dia ,1,261
+Queria que instalasse o programa em outro computador,3,261
+Bom dia,1,262
+Por favor mandar o boleto atualizado para pagamento da firma 1 e 4,3,262
+Esqueci de pagar ontem,4,262
+Bom dia,1,264
+Estamos precisando de atendimento,3,264
+Bom dia,1,265
+Precisando de assistência,3,265
+bom dia ],1,266
+Nao posso no momento.,4,266
+Bom dia,1,267
+O sistema aqui ñ está funcionando ñ,3,267
+Ñ consigo entrar,3,267
+Pode ser do financeiro,2,267
+Bom dia,1,268
+Queria saber como faço pra imprimir todos os clientes em débitos atrassados,3,268
+Ñ aparece o valor total dos debitos,3,268
+Só aparece os juros,4,268
+Bom dia,1,269
+Tentei enviar outra nota ñ consegui,3,269
+Também o sistema de ENTRADA dos controlados ñ consigo entrar tem como ver isso primeiro,3,269
+Memória insuficiente,3,269
+Bom dia,1,270
+Bom dia.,1,271
+Formatei um computador aqui. Agora preciso instalar o sistema.,3,271
+Daí me pediram pra salvar uma pasta e eu salvei /infog,4,271
+Boa tarde,1,272
+Ñ estou conseguindo enviar nota fiscal,3,272
+Olá boa tarde,1,273
+Os computadores estão dando erro ao conecta no servidor,3,273
+Boa tarde,1,274
+Ñ estou conseguindo enviar as notas fiscais,3,274
+Bom dia.,1,275
+Eu preciso formatar um computador aqui na farmacia,3,275
+Quero saber se precisa fazer um backup?,2,275
+Tá ok, assim que formatar entro em contato para instalar o sistema,4,275
+Boa noite,1,276
+Boa tarde!,1,277
+Queria falar com o suporte,3,278
+Oi boa tarde,1,279
+O caixa voltou a funcionar,4,280
+O caixa alternativo sumiu,3,280
+Bom dia,1,281
+Boa estou fazendo as notas fiscais colocando lote, da fabricação e vencimento,4,281
+Ainda esta dando erro,3,281
+Bom dia,1,282
+Ontem consegui enviar duas notas fiscais e hoje uma,4,282
+Agora ñ consegui mais,3,282
+Bom dia,1,283
+Gostaria de atendimento, estou com um problema no pc,4,283
+Não está mais entrando no programa,3,283
+Bom dia,1,284
+Enviei uma nota fiscal na sexta feira só que imprimir e fala que não foi enviada para o sefaz,3,284
+Bom dia,1,286
+Eu não tô usando cingindo fechar umas vendas.,3,286
+As vendas que estou fechando em meu caixa não está aparecendo na tela de transações,3,286
+Bom dia,1,287
+Ñ estou conseguindo entrar no sistema de notas fiscais,3,287
+Oi bom dia!,1,289
+Eu não tô usando conseguindo fechar alguns produtos,3,289
+Tá dando erro no Cfop,3,289
+Oi boa tarde!,1,290
+Eu gostaria de saber se tem outro metado, que possa ser usado no sistema que não imprime as vendas que são fechadas?,2,290
+Bom dia ,1,291
+Gostaria que resolvesse um problema para mim.,4,291
+Apenas reinstalar o programa de pre venda no nosso outro computador,3,291
+Bom dia,1,292
+Os sistemas está dando erro,3,292
+Boa tarde,1,293
+Precisando de uma visita técnica.,3,294
+Avaliação dos equipamentos. Capacidade de armazenamento de dados. Farmácia popular.,3,294
+Precisando de contratos. Pode ser pelo tenvem.,3,295
+Ajuste de discontos,3,295
+Em cadastros de produtos na visita do Reinaldo ele deve ter feito uma alteraçãono sistema é qdo coloco a sugestão de desconto. O sistema altera o valor final.,3,295
+Reinaldo não consigo emitir nota fiscal de devolução,3,296
+entrar no programa com minha senha terminal de escritorio,4,296
+Focou peor depois da atualização. Hoje a tarde travou duas vezes,3,296
+O sistema está travando com frequência.,3,296
+Toda vez preciso mandar executar. Como eliminar?,3,296
+O primeiro caso ok.,4,297
+Estou precisando faturar um convênio. Como o faturamento do mês passado está ematraso, na busca esse se junta ao de hoje. Como o cliente está esperando para pagar. Preciso de ajuda agora,3,298
+Inclusive entrou um juro errado quero eliminar o juro para o cliente,3,298
+Boa tarde,1,299
+Precisando de uma carga para atualizar preços,3,299
+Tem alguns com preço antigo,3,299
+Não estão com preço atual do ABC Farma,3,299
+Emissão de Nota Fiscal eletrônica. Sem acesso,3,300
+Precisando de ajuda.emissao Nota fiscal eletrônica devolução. obrigada,3,301
+Me perdi nas buscas. Quero add o produto novamente,3,301
+Maylana estou vendo aqui que ainda focou uma nota em digitação. Você tem como excluí,2,301
+ok,4,301
+o terminal do escritório está sem nenhum acesso. Gostaria que tentassem acessarpelo servidor,3,302
+Sim vou mandar do terminal problema,4,302
+Maylana o terminal do escritório continua travando. ,3,303
+Foi depois que começou fazer becap diário nele.,4,303
+É provável que o equipamento não esteja suportando.,3,303
+Precisando que veja a capacidade desta máquina.,3,303
+Cheguei agora,1,304
+Verifique o becap que estÃ¡ nele,3,304
+Veja de descobre o problema.,4,304
+A Marilena tÃ¡ com problema do caixa,4,304
+Estamos um Dropbox q quando o computador trava ele sinaliza,3,304
+Veja se da certo,4,304
+Sucesso,4,305
+Bom dia já estou com a documentação do certificado digital liberada. Qual o próximo passo?,3,306
+Esse o documento que recebi. Vejam com gerar esse arquivo. Não sei fazer.,4,306
+Já Estou com o certificado digital no meu e-mail no ponto de baixar.,4,307
+Abri si é no email enviado por Tatiana,4,307
+O arquivo já está salvo? Onde com que nome,?,4,307
+Já está tudo certo. Só continua operando,certo?,4,307
+Me ajude. Onde vejo o estoque atual por fabricante.,4,308
+Vou mandar do outro celular para agilizarmos,4,309
+Ivonete Pimentel,4,309
+Boa tarde,1,310
+Será pq essa msg?,4,310
+Ok. Já está na tela,4,311
+Preço farmácia popular nos terminais de vendas.,4,312
+Bom dia. ,1,313
+editando uma nota fiscal de devolução que ainda não foi enviado.,3,313
+não localizo o lugar de descriminar o produto,3,313
+Vou atender no balcão. Se precisar chamo novamente.obr,4,313
