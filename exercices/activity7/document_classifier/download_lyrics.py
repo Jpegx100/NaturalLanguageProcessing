@@ -1,22 +1,12 @@
-# encoding=utf8
+# encoding=latin1
 
 import os
 import sys
+import threading
 import requests
 from lxml.html import fromstring
 
-root = 'https://www.letras.mus.br'
-
-styles = [
-    # '/mais-acessadas/reggae/',
-    # '/mais-acessadas/forro/',
-    # '/mais-acessadas/sertanejo/',
-    '/mais-acessadas/gospelreligioso/',
-    '/mais-acessadas/funk/',
-    '/mais-acessadas/bossa-nova/'
-]
-
-for style in styles:
+def download_style(style, root):
     categorie = style.split('/')[-2]
     categorie_dir = os.path.join('corpus', categorie)
     if not os.path.exists(categorie_dir):
@@ -26,7 +16,7 @@ for style in styles:
 
     req = requests.get(root+style)
     page = fromstring(req.content)
-    urls = page.xpath('//*[@id="js-cnt-tops"]/div[3]/div[1]/ol/li/a/@href')[:500]
+    urls = page.xpath('//*[@id="js-cnt-tops"]/div[3]/div[1]/ol/li/a/@href')
     total = len(urls)
 
     for i, url in enumerate(urls):
@@ -37,15 +27,33 @@ for style in styles:
         page = fromstring(req.content)
 
         title = page.xpath('//*[@id="js-lyric-cnt"]/div[2]/div[2]/h1/text()')
-        filename = (
-            u'_'.join(title[0].split()).lower().replace('/', '') + '.txt'
-        ).encode('latin1')
+        filename = (str(i)+'.txt').encode('latin1')
+
 
         lyrics = page.xpath(
             '//*[@id="js-lyric-cnt"]/div[3]/div[1]/article/p/text()'
         )
-        lyrics = u'\n'.join(lyrics).encode('utf-8')
+        try:
+            lyrics = u'\n'.join(lyrics).encode('latin1')
+        except:
+            continue
 
         arq = open(os.path.join(categorie_dir, filename), 'w')
         arq.write(lyrics)
         arq.close()
+
+
+root = 'https://www.letras.mus.br'
+styles = [
+    '/mais-acessadas/reggae/',
+    '/mais-acessadas/forro/',
+    '/mais-acessadas/sertanejo/',
+    '/mais-acessadas/gospelreligioso/',
+    '/mais-acessadas/funk/',
+    '/mais-acessadas/bossa-nova/'
+]
+
+for style in styles:
+    download_style(style, root)
+    # thread = threading.Thread(target=download_style, args=(style, root, ))
+    # thread.start()

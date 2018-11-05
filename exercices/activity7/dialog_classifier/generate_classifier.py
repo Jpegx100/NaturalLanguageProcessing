@@ -1,3 +1,4 @@
+# encoding=utf-8
 import nltk
 import pickle
 
@@ -8,7 +9,7 @@ def remove_stop_words(sentence):
         sent = sent.replace(sw, '')
     return sent
 
-def get_data(dataset_path='conversas.txt'):
+def get_data(dataset_path='corpus.txt'):
     results = list()
 
     arq = open(dataset_path, 'r')
@@ -35,15 +36,19 @@ def get_features(post, postagger):
     features['pattern'] = ' '.join(classes)
     return features
 
-postagger = pickle.load(open('postagger.pickle', 'rb'))
+if __name__ == '__main__':
 
-dataset = get_data()
-fSets = [(get_features(text, postagger), label) for (text, label) in dataset]
-size = int(len(fSets) * 0.1)
-trainSet, testSet = fSets[size:], fSets[:size]
-c1 = nltk.NaiveBayesClassifier.train(trainSet)
-print(nltk.classify.accuracy(c1, testSet))
+    postagger_file = open('postagger.pickle', 'rb')
+    postagger = pickle.load(postagger_file)
+    postagger_file.close()
 
-f = open('classifier.pickle', 'wb')
-pickle.dump(c1, f)
-f.close()
+    dataset = get_data()
+    fSets = [(get_features(text, postagger), label) for (text, label) in dataset]
+    size = int(len(fSets) * 0.1)
+    trainSet, testSet = fSets[size:], fSets[:size]
+    c1 = nltk.NaiveBayesClassifier.train(trainSet)
+    print('Acurácia: '+str(nltk.classify.accuracy(c1, testSet)))
+
+    f = open('classifier.pkl', 'wb')
+    pickle.dump(c1, f)
+    f.close()

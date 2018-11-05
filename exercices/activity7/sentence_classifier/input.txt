@@ -1,0 +1,7 @@
+Olá meus amigos!
+No artigo de hoje eu vou demonstrar como utilizar o processamento de
+linguagem natural para criar um modelo que realiza sumarização automática de textos.
+Mas o que vem a ser uma sumarização? Sumarizar é sinônimo de resumir,
+sintetizar. Então o que vamos fazer é criar um modelo em Python
+que seja capaz de ler um texto de uma fonte qualquer e depois criar um resumo desse texto.
+Testando abv. não segmentador. João.

@@ -43,3 +43,4 @@ Temporary Items
 .apdisk
 exercices/activity2/corpus/*
 exercices/activity7/document_classifier/corpus/*
+*.pyc
